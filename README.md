@@ -6,10 +6,10 @@ Este projeto demonstra a criação de um dashboard interativo para visualizaçã
 
 ## Funcionalidades
 
-- **Coleta de Dados em Tempo Real:** Utiliza a API gratuita Open-Meteo para buscar dados climáticos atualizados.
-- **Visualização Interativa:** Apresenta temperaturas e velocidades do vento de forma clara e comparativa através de gráficos gerados com Plotly e exibidos no Streamlit.
-- **Fácil de Usar:** Interface intuitiva e um botão para atualizar os dados com um clique.
-- **Código Aberto:** Todo o código é documentado e disponível para estudo e modificação.
+ **Coleta de Dados em Tempo Real:** Utiliza a API gratuita Open-Meteo para buscar dados climáticos atualizados.
+**Visualização Interativa:** Apresenta temperaturas e velocidades do vento de forma clara e comparativa através de gráficos gerados com Plotly e exibidos no Streamlit.
+ **Fácil de Usar:** Interface intuitiva e um botão para atualizar os dados com um clique.
+**Código Aberto:** Todo o código é documentado e disponível para estudo e modificação.
 
 ## Tecnologias Utilizadas
 
@@ -60,4 +60,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## Contato
 
 Para dúvidas ou sugestões, entre em contato através do GitHub.
-"# Meu Primeiro Projeto" 
+
